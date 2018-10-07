@@ -81,7 +81,7 @@ h1
 .button
 {
    margin-top: 30px;
-   margin-left: 640px;
+   margin-left: 840px;
 }
 
 .btn
@@ -102,6 +102,6 @@ h1
 
 .btn-one:hover
 {
-   background-color: cyan;
+   background-color: darkblue;
 }
 
