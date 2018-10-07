@@ -1,14 +1,35 @@
-  *
-  {
-    margin: 0;
-    padding: 0;
-  }
+*
+{
+   margin: 0;
+   padding: 0;
+}
   
-  header
-  {
-  background-image: url(pic1.jpg);
-  height: 100vh;
-  background-size: cover;
-  backgorund-position: center;
-  
-  }
+header
+{
+   background-image:linear
+   gradient (rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+   height: 100vh;
+   background-size: cover;
+   backgorund-position: center;
+}
+
+.main-nav
+{
+   float: right;
+   list-style: none;
+   margine-top: 30px;  
+}
+
+.main-nav li
+{
+   display: inline-block;
+}
+
+.main-nav li
+{
+   color: black;
+   text-decoration: none;
+   padding: 5px 20px; 
+   font-family: "Roboto", sans-serif;
+   font-size: 15px;
+}
