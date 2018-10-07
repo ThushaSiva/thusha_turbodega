@@ -49,3 +49,14 @@ header
    height: auto;
    float: left;
 }
+
+body
+{
+   font-family: monospace;
+}
+
+.row
+{
+   max-width: 120px;
+   margin: auto;
+}
