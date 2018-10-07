@@ -6,8 +6,7 @@
   
 header
 {
-   background-image:linear
-   gradient (rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic1.jpg);
+   background-image: url(pic1.jpg);
    height: 100vh;
    background-size: cover;
    backgorund-position: center;
