@@ -43,3 +43,11 @@ header
    border: 1px solid black; 
 }
 
+.logo img
+{
+   width: 150px;
+   height: auto;
+   float: left;
+}
+
+
