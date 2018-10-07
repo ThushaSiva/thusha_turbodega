@@ -110,7 +110,7 @@ h1
 {
    position: absolute;
    width: 900px;
-   margin-left: 0;
+   margin-left: 10;
    margin-top: 0;
 }
 
@@ -120,6 +120,5 @@ h2
    text-transform: none;
    font-size: 15px;
    text-align: justify;
-   text-indent: 30%
    margin-top: 100px;
 }
