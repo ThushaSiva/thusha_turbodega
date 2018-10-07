@@ -64,7 +64,7 @@ body
 .welcome
 {
    position: absolute;
-   width: 800px;
+   width: 850px;
    margin-left: 0;
    margin-top: 0;
 }
@@ -80,8 +80,8 @@ h1
 
 .button
 {
-   margin-top: 0px;
-   margin-left: 340px;
+   margin-top: 30px;
+   margin-left: 940px;
 }
 
 .btn
@@ -91,7 +91,7 @@ h1
    color: black;
    text-decoration: none;
    margin-right: 5px;
-   font-size: 13px;
+   font-size: 33px;
    text-transform: uppercase;
 }
 
