@@ -106,3 +106,19 @@ h1
    transition: all 0.5s ease-in;
 }
 
+.info
+{
+   position: absolute;
+   width: 900px;
+   margin-left: 0;
+   margin-top: 0;
+}
+
+h2
+{
+   color: darkturquoise;
+   text-transform: uppercase;
+   font-size: 100px;
+   text-align: center;
+   margin-top: 150px;
+}
