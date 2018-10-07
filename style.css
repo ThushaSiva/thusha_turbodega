@@ -45,7 +45,7 @@ header
 
 .logo img
 {
-   width: 150px;
+   width: 100px;
    height: auto;
    float: left;
 }
@@ -77,3 +77,27 @@ h1
    text-align: center;
    margin-top: 125px;
 }
+
+.button
+{
+   margin-top: 30px;
+   margin-left: 440px;
+}
+
+.btn
+{
+   border: 1px solid black;
+   padding: 10px 30px;
+   color: black;
+   text-decoration: none;
+   margin-right: 5px;
+   font-size: 13px;
+   text-transform: uppercases; 
+}
+
+.btn-one
+{
+   font-family: "Roboto", sans-serif;
+   background-color: green;
+}
+
