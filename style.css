@@ -117,8 +117,8 @@ h1
 h2
 {
    color: darkturquoise;
-   text-transform: uppercase;
-   font-size: 100px;
+   text-transform: none;
+   font-size: 15px;
    text-align: center;
    margin-top: 150px;
 }
