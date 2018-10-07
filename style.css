@@ -57,14 +57,14 @@ body
 
 .row
 {
-   max-width: 3000px;
+   max-width: 1200px;
    margin: auto;
 }
 
 .welcome
 {
    position: absolute;
-   width: 1200px;
+   width: 1300px;
    margin-left: 0;
    margin-top: 0;
 }
