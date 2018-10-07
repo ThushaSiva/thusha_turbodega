@@ -44,17 +44,3 @@ header
 }
 
 
-
-
-
-body
-{
-   font-family: monospace;
-}
-
-.row
-{
-   max-width: 1200px
-   margin: auto;
-}
-
