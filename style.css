@@ -41,7 +41,7 @@ li a
 
 h1
 {
-   color: darkturquoise;
+   color: black;
    text-transform: uppercase;
    font-size: 100px;
    text-align: center;
@@ -127,15 +127,6 @@ h4
    margin-top: 100px;
 }
 
-h5
-{
-   color: black;
-   text-transform: none;
-   font-size: 15px;
-   text-align: justify;
-   margin-top: 0px;
-}
-
 .faqs
 {
    position: absolute;
@@ -144,20 +135,3 @@ h5
    margin-top: 0;
 }
 
-h6
-{
-   color: black;
-   text-transform: none;
-   font-size: 15px;
-   text-align: justify;
-   margin-top: 100px;
-}
-
-h7
-{
-   color: black;
-   text-transform: none;
-   font-size: 15px;
-   text-align: justify;
-   margin-top: 0px;
-}
