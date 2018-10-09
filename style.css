@@ -31,11 +31,6 @@ li a
    color: #333;
 }
 
-.text-centered
-{
-   padding-right: 20px;
-}
-
 .welcome
 {
    position: absolute;
@@ -140,11 +135,20 @@ h4
    margin-top: 0;
 }
 
+html, body 
+{
+    height: 100%;
+}
+
 .container
 {
    position: relative;
    text-align: center;
    color: black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .centered
 {
