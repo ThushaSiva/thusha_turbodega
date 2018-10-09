@@ -147,7 +147,7 @@ h4
 }
 .infos {
     position: absolute;
-    top: 10%;
-    left: 0%;
-    width: 100%;
+    width: 800px;
+    margin-left: 50px;
+    margin-top: 0;
 }
