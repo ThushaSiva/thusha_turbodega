@@ -135,3 +135,8 @@ h4
    margin-top: 0;
 }
 
+.container
+{
+   position: relative;
+   color: black;
+}
