@@ -69,7 +69,7 @@ a.btn-one
 
 .btn-one:hover
 {
-   background-color: blue;
+   background-color: lightblue;
    border: none;
    color: #fff;
    box-shadow: 5px 5px 10px #999;
