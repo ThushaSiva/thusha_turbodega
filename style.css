@@ -135,17 +135,13 @@ h4
    margin-top: 0;
 }
 
-.container
+.thumbnail
 {
-   position: relative;
-   text-align: center;
-   color: black;
+   position:relative;
 }
-
-.centered
-{
-   position: absolute;
-   top: 50%;
-   left: 50%
-   transform: translate(-50%, 50%;
+.caption {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    width: 100%;
 }
