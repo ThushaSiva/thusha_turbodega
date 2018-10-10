@@ -50,8 +50,8 @@ h1
 
 a.btn
 {
-   margin-top: 30px;
-   margin-left: 940px;
+   top: 20%;
+   left: 80%;
    width: 150px;
    padding: 10px;
    border-radius: 20px;
