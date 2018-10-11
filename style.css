@@ -149,3 +149,8 @@ h1, h2, h3
 {
   text-align: center;
 }
+@media(max-width: 700px){
+   .caption{
+      width: 100%
+   }
+}
